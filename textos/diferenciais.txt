@@ -1,5 +1,4 @@
 Diferenciais
-
 * Menor preço do varejo, garantido
 * Se você achar uma loja mais barata, leva o produto de graça
 * Pague em reais, dólares, euros ou bitcoins
