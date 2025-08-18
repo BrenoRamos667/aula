@@ -50,3 +50,17 @@ header {
     top: 0;
     right: 0;
 }
+.buscar,
+.menu-departamentos {
+    float: left;
+}
+.buscar,
+.menu-departamentos {
+    float:left;
+}
+.menu-departamentos {
+    clear:left;
+}
+.menu-departamentos {
+    text-transform: uppercase;
+}
